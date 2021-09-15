@@ -1,4 +1,4 @@
 ## commnad
 ```bash
-$ dart bin/dart_cli.dart
+$ bundle exec bin/main.rb
 ```
